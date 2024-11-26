@@ -1,4 +1,4 @@
-# Ex02 Django Polls
+# Ex03 Django Polls
 ## Date:20.10.24
 
 ## AIM
